@@ -1,0 +1,3 @@
+[submodule "snip"]
+	path = snip
+	url = git@github.com:marcopaganini/snip
